@@ -1,0 +1,19 @@
+{
+  "name": "countdown_timer_project9",
+  "version": "1.0.0",
+  "description": "timer",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ghousia maqsood",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^3.6.0"
+  }
+}
